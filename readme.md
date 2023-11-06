@@ -4,13 +4,13 @@
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
-![screenshot](./screenshot/1.png)
+![screenshot](./screenshot/1.jpeg)
 
 Actual Weather:
-![screenshot](./screenshot/2.png)
+![screenshot](./screenshot/3.webp)
 
 5-Day Forecast:
-![screenshot](./assets/screenshot3.png)
+![screenshot](./screenshot/4.png)
 
 
 Additional description about the project and its features.
