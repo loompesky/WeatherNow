@@ -7,7 +7,7 @@ Landing Page:
 ![screenshot](./Users/pfrimpong/CloudComputing/WeatherNow/WeatherNow/1.png)
 
 Actual Weather:
-![screenshot](./assets/screenshot2.png)
+![screenshot](./Users/pfrimpong/CloudComputing/WeatherNow/WeatherNow/2.png)
 
 5-Day Forecast:
 ![screenshot](./assets/screenshot3.png)
