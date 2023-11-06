@@ -66,7 +66,7 @@ cityInput.addEventListener("keyup", function(event)
 
     var cityInputValue = cityInput.value;
 
-    //new API Key 20aacfb22704ab077fe53cba57b74d53
+    
     //default API Key b1fd6e14799699504191b6bdbcadfc35
     var apiKey = "20aacfb22704ab077fe53cba57b74d53"; // ALX
     var unit = "metric";
