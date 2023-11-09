@@ -1,7 +1,7 @@
 
-# WeatherApp
+# WeatherNow
 
->  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
+>  A weather now that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
 ![screenshot](./screenshot/1.jpeg)
@@ -20,8 +20,6 @@ Additional description about the project and its features.
 - HTML 
 - CSS
 - JAVASCRIPT
-- WEBPACK
-- BOOTSTRAP
 - GITHUB ACTIONS
 
 ## Live Demo
